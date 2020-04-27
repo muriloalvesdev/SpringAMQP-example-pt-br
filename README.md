@@ -9,5 +9,5 @@
 
 #### Ilustração abaixo:
 <br>
-<img src="https://github.com/muriloalvesdev/Spring-AMQP/tree/master/src/main/resources/rabbitmq/geral.png"/>
+<img src="https://github.com/muriloalvesdev/Spring-AMQP/blob/master/src/main/resources/rabbitmq/geral.png"/>
 <br>
